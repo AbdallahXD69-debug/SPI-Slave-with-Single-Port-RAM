@@ -22,7 +22,7 @@ This project implements an SPI (Serial Peripheral Interface) slave with a single
    - Waveform data captured via QuestaSim for analysis.
 ---
 
-### Hardware Setup
+### Hardware Setup (If we used an FPGA)
 - **Constraints**:
   - `rst_n`, `SS_n`, and `MOSI`: Connected to switches.
   - `MISO`: Connected to an LED.
@@ -48,12 +48,5 @@ This project implements an SPI (Serial Peripheral Interface) slave with a single
 3. **Timing and Synthesis Analysis**:
    - Generated reports highlighting critical paths and performance metrics.
 
-
 ---
 
-### Group Members
-Include the names of the group members here, using their certificate names.
-
----
-
-Would you like to modify or add any specific sections to this README?
