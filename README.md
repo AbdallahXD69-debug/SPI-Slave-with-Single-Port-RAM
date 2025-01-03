@@ -43,7 +43,7 @@ This project implements an SPI (Serial Peripheral Interface) slave with a single
 
 
 2. **Testbench**:
-   - Verified state transitions through SPI interactions with RAM by doing an SPI Wrapper or as I named the files in the repository here "Wrapper_tb.v".
+   - Verified state transitions through SPI interactions with RAM by doing an SPI Wrapper, which you can find in the repository here by the file name "Wrapper_tb.v".
 
 3. **Timing and Synthesis Analysis**:
    - Generated reports highlighting critical paths and performance metrics.
